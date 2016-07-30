@@ -1,0 +1,16 @@
+{
+  "name": "21minus",
+  "homepage": "https://stefanwimmer128.github.io/21minus",
+  "authors": [
+    "Stefan Wimmer <stefanwimmer128@gmail.com>"
+  ],
+  "description": "21minus is a little mathematical game.",
+  "main": "index.html",
+  "keywords": [
+    "21minus"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}
