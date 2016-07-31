@@ -59,7 +59,7 @@ $(() =>
     
     const aiMinus = () =>
     {
-        if (won)
+        if (won !== null)
             return ;
         
         $(".minus").attr("disabled", "disabled");
